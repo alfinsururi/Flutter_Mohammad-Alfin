@@ -16,6 +16,6 @@ Perbedaan Compiler dan Interpreter:
 - Pada compiler, program dapat dijalankan dengan cepat karena tidak membaca ulang kode. Namun pada interpreter, program biasanya berjalan lebih lambat karena harus membaca ulang keseluruhan kode.
 Macam-macam perangkat software:
 - iOS menggunakan Swift dan Objective-C
-- Android menggunakan Kotlin dan Java
+- Android menggunakan Kotlin dan Java.
 
 
