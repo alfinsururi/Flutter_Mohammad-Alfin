@@ -28,6 +28,7 @@ Tipe data
 - bool ( true / false ) Ex: bool pria = true;
 - String ( teks ) Ex: String nama = 'Alfin';
 
+Operator 
 - Aritmatika +, -, *, /, %
 - Assignment =, +=, -=, *=, /=, %=
 - Comparison ==, <, <=, >, >=
