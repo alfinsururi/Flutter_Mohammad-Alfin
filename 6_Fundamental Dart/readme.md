@@ -28,7 +28,7 @@ Tipe data
 - bool ( true / false ) Ex: bool pria = true;
 - String ( teks ) Ex: String nama = 'Alfin';
 
-Aritmatika +, -, *, /, %
-Assignment =, +=, -=, *=, /=, %=
-Comparison ==, <, <=, >, >=
-Logical && ( and ), || ( or ), ! ( nor )
+- Aritmatika +, -, *, /, %
+- Assignment =, +=, -=, *=, /=, %=
+- Comparison ==, <, <=, >, >=
+- Logical && ( and ), || ( or ), ! ( nor )
