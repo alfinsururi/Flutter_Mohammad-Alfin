@@ -22,13 +22,13 @@ umur > Menunjukkan nama dari Variable
 Konstanta digunakan untuk menyimpan data namun bersifat tetap
 Contoh final usia = 21;
 
-Tipe data 
+Tipe data :
 - int ( Bilangan bulat ) Ex: int umur = 20;
 - double ( Bilangan pecahan ) Ex: double beratBadan = 21.7;
 - bool ( true / false ) Ex: bool pria = true;
 - String ( teks ) Ex: String nama = 'Alfin';
 
-Operator 
+Operator :
 - Aritmatika +, -, *, /, %
 - Assignment =, +=, -=, *=, /=, %=
 - Comparison ==, <, <=, >, >=
